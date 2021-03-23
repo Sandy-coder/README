@@ -1,3 +1,3 @@
-# README
+#  sniker
 lo que sea 
 holis
